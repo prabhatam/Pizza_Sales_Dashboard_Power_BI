@@ -1,2 +1,7 @@
-# Pizza_Sales_Dashboard_Power_BI
-Developed a Pizza Sales Dashboard using Power BI to analyze sales trends and KPIs for a pizza shop. Visualized daily and monthly order and revenue trends using bar and funnel charts, identifying Classic Pizza as the best-seller and Brie Carre Pizza as the worst-seller, with peak orders observed on Fridays and Saturdays in July
+# Pizza Sales PowerBI Dashboard 
+#### We used here Power BI for Data Visulization.
+#### To Fill KPI Requirement of Pizza Shop: Which Pizza, Category, and Size Affects Sales
+#### We Build Bar and Funnel charts to show daily and monthly trends on Total Order and Total Revenue.
+#### And able to find out Best Selling and Worst Selling Pizza.
+#### Conclude that the Highest orders are spotted on Friday and Saturday in July Month and Brie Carre Pizza is the Worst Seller and Classic Pizza is the Best Seller. 
+
